@@ -3,7 +3,6 @@
 ### This is a tertiary heading
 #### Are there quaternary headings?
 
-*first item
-*second item
-*third item 
-
+* first item in list 
+* second item in list
+* third item in list
